@@ -1,182 +1,182 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T07:43:11.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0 (Edition Yx GX)" etag="yITeRlhjK0tGbhw8Upas" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T07:54:23.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0 (Edition Yx GX)" etag="n148tWtIkcqzVUb0caIQ" version="21.3.8" type="github">
   <diagram name="Страница 1" id="AUSzA4jaNJ3U6dv_mu85">
     <mxGraphModel dx="839" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="360" as="sourcePoint" />
             <mxPoint x="40" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="360" as="sourcePoint" />
             <mxPoint x="400" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="360" as="sourcePoint" />
             <mxPoint x="760" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-4" value="Начальник" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-4" value="Начальник" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-6" value="Подчинённый" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-6" value="Подчинённый" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-7" value="Сервер" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-7" value="Сервер" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="130" as="sourcePoint" />
             <mxPoint x="240" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-9" value="Создать задачу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-8">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-9" value="Создать задачу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-8" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="170" as="sourcePoint" />
             <mxPoint x="240" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-11" value="Подтвердить статус задачи" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-10">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-11" value="Подтвердить статус задачи" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-10" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="210" as="sourcePoint" />
             <mxPoint x="240" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-13" value="Воспользоваться мессенджером" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-12">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-13" value="Воспользоваться мессенджером" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-12" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="140" as="sourcePoint" />
             <mxPoint x="560" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-15" value="Создать подзадачу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-14">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-15" value="Создать подзадачу" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-14" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="360" as="sourcePoint" />
             <mxPoint x="560" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-18" value="Интерфейс" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-18" value="Интерфейс" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="360" as="sourcePoint" />
             <mxPoint x="240" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-20" value="Интерфейс" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-20" value="Интерфейс" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="180" as="sourcePoint" />
             <mxPoint x="560" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-22" value="Изменить статус задачи/подзадачи" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-21">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-22" value="Изменить статус задачи/подзадачи" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-21" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="220" as="sourcePoint" />
             <mxPoint x="560" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-25" value="Воспользоваться мессенджером" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-24">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-25" value="Воспользоваться мессенджером" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-24" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="150" as="sourcePoint" />
             <mxPoint x="400" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-28" value="Отправить данные на сервер" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-27">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-28" value="Отправить данные на сервер" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-27" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="200" as="sourcePoint" />
             <mxPoint x="560" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-30" value="Отправить данные на &lt;br&gt;подчинённому" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-29">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-30" value="Отправить данные&amp;nbsp;&lt;br&gt;подчинённому" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-29" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="270" as="sourcePoint" />
             <mxPoint x="400" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-32" value="Отправить данные на сервер" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-31">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-32" value="Отправить данные на сервер" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-31" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="230" as="sourcePoint" />
             <mxPoint x="240" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-34" value="Отправить данные на &lt;br&gt;подчинённому" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-33">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-34" value="Отправить данные&amp;nbsp;&lt;br&gt;начальнику" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-33" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="300" as="sourcePoint" />
             <mxPoint x="760" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-36" value="Получить данные&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-35">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-36" value="Получить данные&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-35" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-37" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="300" as="sourcePoint" />
             <mxPoint x="40" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-38" value="Получить данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rDE-nPRSCjHXlMvJ-d7d-37">
+        <mxCell id="rDE-nPRSCjHXlMvJ-d7d-38" value="Получить данные" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rDE-nPRSCjHXlMvJ-d7d-37" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
